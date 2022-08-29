@@ -3,10 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:lapakita/bloc/product_data_bloc.dart';
 import 'package:lapakita/response/product_get/product.dart';
-import 'package:glassmorphism/glassmorphism.dart';
 import 'package:lapakita/routes/app_router.dart';
 
-import '../../data/category.dart';
 import '../../utils/constant.dart';
 
 class HomePage extends StatelessWidget {

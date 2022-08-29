@@ -2,7 +2,6 @@ import 'package:auto_route/auto_route.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
 import 'package:lapakita/routes/app_router.dart';
-import 'package:lapakita/screens/home/home_page.dart';
 
 import '../../data/slider.dart';
 import '../../utils/constant.dart';
